@@ -30,7 +30,7 @@ Git, GitHub, Vercel, Render, AWS EC2, Linux, VS Code
 ---
 
 ## 🚀 Major Project
-### 🛒 Solar Shop – E-Commerce Platform  
+### 🛒 PANKAJ ELECTRICALS – E-Commerce Platform  
 🔗 **Live Website:** https://pankaj-electricals.vercel.app  
 
 **Features:**
