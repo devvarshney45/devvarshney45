@@ -10,6 +10,7 @@
 - Strong interest in **Backend & Full Stack Development**
 - Experience building **production-ready web applications**
 - Comfortable with **REST APIs, Authentication, Databases**
+- Experience deploying applications on **AWS EC2 with Nginx & HTTPS**
 - Regularly practicing **DSA in C++ (LeetCode)**
 
 ---
@@ -25,13 +26,37 @@ React.js, HTML, CSS, Tailwind CSS
 Node.js, Express.js, MongoDB  
 
 **Tools & Platforms:**  
-Git, GitHub, Vercel, Render, AWS EC2, Linux, VS Code  
+Git, GitHub, Vercel, Render, AWS EC2, Linux, Nginx, VS Code  
 
 ---
 
-## 🚀 Major Project
-### 🛒 PANKAJ ELECTRICALS – E-Commerce Platform  
-🔗 **Live Website:** https://pankaj-electricals.vercel.app  
+# 🚀 Projects
+
+## 🎫 Smart Event Management Platform  
+🔗 **Live Website:**  
+https://smart-event-platform-alpha.vercel.app  
+
+A full-stack platform for managing events, registrations, QR-based attendance, and certificate generation.
+
+**Key Features:**
+- Event creation and management system
+- Participant registration with **unique QR code generation**
+- **QR-based attendance scanning** for real-time verification
+- **Automated certificate generation** after attendance
+- **Role-based access control** (Admin, Organizer, Volunteer, Participant)
+- Secure **JWT authentication**
+- REST APIs built using **Node.js & Express**
+- MongoDB database with schema validation
+- Deployed using **Vercel (Frontend)** and **Render (Backend)**
+
+🔗 **Repository:**  
+https://github.com/devvarshney45/-smart-event-platform  
+
+---
+
+## 🛒 PANKAJ ELECTRICALS – E-Commerce Platform  
+🔗 **Live Website:**  
+https://pankaj-electricals.vercel.app  
 
 **Features:**
 - Product listing with brand filtering & search
@@ -42,19 +67,40 @@ Git, GitHub, Vercel, Render, AWS EC2, Linux, VS Code
 - MongoDB database
 - Deployed using **Vercel (Frontend)** & **Render (Backend)**
 
-🔗 **Repository:** https://github.com/devvarshney45/solar-shop  
+🔗 **Repository:**  
+https://github.com/devvarshney45/solar-shop  
 
 ---
 
-## 📌 Other Projects
-### 🔐 iNoteDev – Secure Notes App (MERN)
+## 🧾 Hackathon Registration System – Scalable Backend
+Backend system developed for managing registrations in a college hackathon.
+
+**Key Features:**
+- Team registration system with **2–3 member validation**
+- **OTP email verification** for secure registration
+- **Google reCAPTCHA protection** to prevent bots
+- **Rate limiting & security checks** for API protection
+- Temporary team storage with **automatic cleanup**
+- **REST APIs built with Node.js & Express**
+- MongoDB database with schema validation
+- Deployed on **AWS EC2 with Nginx reverse proxy & HTTPS SSL**
+- Successfully handled registrations of **1000+ college students**
+
+🔗 **Repository:**  
+https://github.com/devvarshney45/hackathon-registration-backend  
+
+---
+
+## 🔐 iNoteDev – Secure Notes App (MERN)
 - User authentication & protected routes
 - CRUD operations for notes
-- MongoDB persistence  
+- MongoDB persistence
 
-### 🧠 SmartSync – Smart Classroom Backend
+---
+
+## 🧠 SmartSync – Smart Classroom Backend
 - REST APIs for quizzes & student performance
-- Node.js & Express backend  
+- Node.js & Express backend
 
 ---
 
@@ -62,14 +108,20 @@ Git, GitHub, Vercel, Render, AWS EC2, Linux, VS Code
 - Solving **Data Structures & Algorithms** in C++
 - Active on **LeetCode**
 
-🔗 https://leetcode.com/u/devvarshney1/
+🔗  
+https://leetcode.com/u/devvarshney1/
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/dev-varshney-837390325  
-- 🧑‍💻 GitHub: https://github.com/devvarshney45  
-- 📧 Email: varshneydev365@gmail.com  
+- 💼 LinkedIn:  
+https://www.linkedin.com/in/dev-varshney-837390325  
+
+- 🧑‍💻 GitHub:  
+https://github.com/devvarshney45  
+
+- 📧 Email:  
+varshneydev365@gmail.com  
 
 ---
 
