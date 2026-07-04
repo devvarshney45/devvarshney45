@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:6C3BAA&height=200&section=header&text=Dev%20Varshney&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend-Focused%20%7C%20MERN%20%26%20Java%2FSpring%20Boot&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:6C3BAA&height=180&section=header&text=Dev%20Varshney&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<p><i>Full Stack Developer &nbsp;|&nbsp; Backend-Focused &nbsp;|&nbsp; MERN &amp; Java/Spring Boot</i></p>
 
 <a href="https://linkedin.com/in/dev-varshney-837390325">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
